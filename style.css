@@ -1,0 +1,26 @@
+body{
+    background-color:cornflowerblue;
+}
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+background:orange;
+padding:10px;
+color:white;
+
+}
+
+#status, #start_model, #object_detection 
+{
+    font-size: 18px;
+}
+
+canvas{
+    border:3px dashed blue;
+    border-radius:15px;
+    box-shadow:10px 10px 12px grey;
+    margin-top:30px;
+}
